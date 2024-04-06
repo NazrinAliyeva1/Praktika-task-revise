@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Sinif-Task-revise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E88C28F6-299B-4433-8342-E88753507625}|Sinif-Task-revise\\Sinif-Task-revise.csproj|c:\\users\\99455\\source\\repos\\sinif-task-revise\\sinif-task-revise\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88C28F6-299B-4433-8342-E88753507625}|Sinif-Task-revise\\Sinif-Task-revise.csproj|solutionrelative:sinif-task-revise\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88C28F6-299B-4433-8342-E88753507625}|Sinif-Task-revise\\Sinif-Task-revise.csproj|c:\\users\\99455\\source\\repos\\sinif-task-revise\\sinif-task-revise\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88C28F6-299B-4433-8342-E88753507625}|Sinif-Task-revise\\Sinif-Task-revise.csproj|solutionrelative:sinif-task-revise\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88C28F6-299B-4433-8342-E88753507625}|Sinif-Task-revise\\Sinif-Task-revise.csproj|c:\\users\\99455\\source\\repos\\sinif-task-revise\\sinif-task-revise\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88C28F6-299B-4433-8342-E88753507625}|Sinif-Task-revise\\Sinif-Task-revise.csproj|solutionrelative:sinif-task-revise\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88C28F6-299B-4433-8342-E88753507625}|Sinif-Task-revise\\Sinif-Task-revise.csproj|c:\\users\\99455\\source\\repos\\sinif-task-revise\\sinif-task-revise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88C28F6-299B-4433-8342-E88753507625}|Sinif-Task-revise\\Sinif-Task-revise.csproj|solutionrelative:sinif-task-revise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Sinif-Task-revise\\Sinif-Task-revise\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Sinif-Task-revise\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Sinif-Task-revise\\Sinif-Task-revise\\Models\\Employee.cs",
+              "RelativeToolTip": "Sinif-Task-revise\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:35:19.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Sinif-Task-revise\\Sinif-Task-revise\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Sinif-Task-revise\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Sinif-Task-revise\\Sinif-Task-revise\\Models\\Student.cs",
+              "RelativeToolTip": "Sinif-Task-revise\\Models\\Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:35:04.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Sinif-Task-revise\\Sinif-Task-revise\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Sinif-Task-revise\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Sinif-Task-revise\\Sinif-Task-revise\\Models\\Person.cs",
+              "RelativeToolTip": "Sinif-Task-revise\\Models\\Person.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wCAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:34:50.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Sinif-Task-revise\\Sinif-Task-revise\\Program.cs",
+              "RelativeDocumentMoniker": "Sinif-Task-revise\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Sinif-Task-revise\\Sinif-Task-revise\\Program.cs",
+              "RelativeToolTip": "Sinif-Task-revise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:30:31.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

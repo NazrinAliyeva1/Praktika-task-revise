@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\obj\Debug\net6.0\Sinif-Task-revise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\obj\Debug\net6.0\Sinif-Task-revise.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\obj\Debug\net6.0\Sinif-Task-revise.AssemblyInfo.cs
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\obj\Debug\net6.0\Sinif-Task-revise.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\bin\Debug\net6.0\Sinif-Task-revise.exe
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\bin\Debug\net6.0\Sinif-Task-revise.deps.json
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\bin\Debug\net6.0\Sinif-Task-revise.runtimeconfig.json
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\bin\Debug\net6.0\Sinif-Task-revise.dll
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\bin\Debug\net6.0\Sinif-Task-revise.pdb
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\obj\Debug\net6.0\Sinif-Task-revise.dll
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\obj\Debug\net6.0\refint\Sinif-Task-revise.dll
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\obj\Debug\net6.0\Sinif-Task-revise.pdb
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\obj\Debug\net6.0\Sinif-Task-revise.genruntimeconfig.cache
+C:\Users\99455\source\repos\Sinif-Task-revise\Sinif-Task-revise\obj\Debug\net6.0\ref\Sinif-Task-revise.dll
